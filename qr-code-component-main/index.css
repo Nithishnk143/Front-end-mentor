@@ -1,0 +1,49 @@
+.bg{
+    background-color:rgb(139, 210, 236); 
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    margin-top: auto;
+}
+
+.con{
+    
+    text-align: center;
+    background:white;
+    width: 45vh;
+    height:70vh;
+    margin:auto;
+    border-radius: 36px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+.qrcode{
+    height: 35vh;
+    width:39vh;
+    border-radius: 28px;
+    margin-top:3vh;
+}
+
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: center;
+}
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:grey;
+    text-align: center;
+    font-weight: 700;
+    padding: 20px;
+
+}
+.row{
+    padding-top: 12vh;
+
+    justify-content: center;
+    align-items: center;
+
+}
