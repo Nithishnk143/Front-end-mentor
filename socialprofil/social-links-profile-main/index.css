@@ -1,0 +1,60 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.card{
+    width: 300px;
+    height: 450px;
+    background-color: rgba(68, 65, 65, 0.555);
+    margin: auto;
+    border-radius: 10px;
+    place-items: center;
+}
+.avatar{
+    height: 7vh;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 20px;
+    margin-left: 16vh;
+    border-style: solid;
+    border-color: aliceblue;
+}
+.name{
+    color: white;
+    text-align: center;
+    font-size: large;
+    margin-top: 7px;
+    margin-bottom: 6px;
+    font-weight: 600;
+    font-family: inter-Bold, sans-serif;
+}
+.title{
+    color: rgb(180, 180, 45);
+    text-align: center;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 1px;
+}
+.p1{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+}
+.con1{
+    background-color: rgb(84, 83, 80);
+    width: 35vh;
+    height: 4.5vh;
+    border-radius: 10px;
+    text-align: center;
+}
+.git{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    padding-top: 7.5px;
+    font-weight: 500;
+}
